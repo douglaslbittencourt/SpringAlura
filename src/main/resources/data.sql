@@ -1,4 +1,4 @@
-INSERT INTO USUARIO(nome, email, senha) VALUES('Jojo', 'jojo@joestar.com', '123456');
+INSERT INTO USUARIO(nome, email, senha) VALUES('Jojo', 'jojo@joestar.com', '$2a$10$YBg61iVOfQFBnMrjyIiqIeb802pO3h6Sj5tcF004Mmvwc5gR.I/Km');
 
 INSERT INTO CURSO(nome, categoria) VALUES('Aprendendo Hamon', 'respiração');
 INSERT INTO CURSO(nome, categoria) VALUES('Stand 1', 'Representaçaõ espiritual');
